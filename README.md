@@ -9,3 +9,4 @@ read dataset activity_labels into actlbl
 Read dataset features into features Merge the training and the test sets to create one data set.
 Extracts only the measurements on the mean and standard deviation for each measurement. 
 keep the subjectID and activity columns remove unnecessary i.e. keeping columns we need Add the column names (features) to mdset create a dataset with average of each variable for each activity and each subject
+The mean of activities and subjects are created into a separate tidy data set which is exported into the Project folder as txt file
